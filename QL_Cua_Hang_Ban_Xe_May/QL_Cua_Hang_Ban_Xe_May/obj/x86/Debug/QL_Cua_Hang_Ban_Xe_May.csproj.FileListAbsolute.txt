@@ -1,0 +1,262 @@
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHangHoa.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DQuan\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHangHoa.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\REPORT_29-4 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportBaoHanh.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHangHoa.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_5-3 18h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportBaoHanh.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportKhachHang.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportDoanhThu.resources
+C:\Users\DELL\Desktop\REPORT_4-5 9h\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmThongTinXeMay.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportBaoHanh.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportDoanhThu.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportKhachHang.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmThongTinXeMay.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\DQuan\Desktop\MAINOP\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportBaoHanh.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportDoanhThu.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportKhachHang.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmThongTinXeMay.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+C:\Users\Haanz\Desktop\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\bin\Debug\QL_Cua_Hang_Ban_Xe_May.exe.config
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.exe
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.pdb
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.csprojResolveAssemblyReference.cache
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportBaoHanh.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportDoanhThu.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportKhachHang.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportNhaCungCap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportNhanVien.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.BaoCao.frmReportPhieuNhap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportPhieuXuat.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmReportThongTinXeMay.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmThongTinXeMay.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChinh.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmChucVu.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhapHang.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmXuatHang.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNguoiDung.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDangNhap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmDoiMatKhau.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmGioiThieu.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuHangCungCap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuKhachHang.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuNhanVien.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuNhap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuPhieuXuat.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmTraCuuXe.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.NguoiDung.N.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmHeThong.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmKhachHang.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhaCungCap.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.frmNhanVien.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.Properties.Resources.resources
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\QL_Cua_Hang_Ban_Xe_May.csproj.GenerateResource.Cache
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.cache
+D:\College\PROGRAMMING FOR WINDOWS_ PROJECT\finally\chuong trinh\MAINOP\QL_Cua_Hang_Ban_Xe_May\QL_Cua_Hang_Ban_Xe_May\obj\x86\Debug\RdlCompile.compiled
